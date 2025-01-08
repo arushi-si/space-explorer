@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "missionName": "Apollo 11",
+    "description": "The first manned mission to land on the Moon.",
+    "launchDate": "1969-07-16",
+    "status": "Completed",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/XKSN8JQHvaP6DMQXiQvYWD-970-80.jpg"
+  },
+  {
+    "id": 2,
+    "missionName": "Voyager 1",
+    "description": "A mission to study the outer Solar System and beyond.",
+    "launchDate": "1977-09-05",
+    "status": "Ongoing",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/7H6iyTsjaQaDxadd3VBG7D-970-80.jpg"
+  },
+  {
+    "id": 3,
+    "missionName": "Mars Curiosity Rover",
+    "description": "A rover exploring the surface of Mars for signs of life.",
+    "launchDate": "2011-11-26",
+    "status": "Active",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/AAGhyngxWggfgLpdXvHvVk-970-80.jpg"
+  },
+  {
+    "id": 4,
+    "missionName": "James Webb Space Telescope",
+    "description": "A space telescope designed to observe the most distant objects in the universe.",
+    "launchDate": "2021-12-25",
+    "status": "Active",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/CstLpGA5wtzjaHdMu3TT8E-970-80.jpg"
+  },
+  {
+    "id": 5,
+    "missionName": "SpaceX Starship",
+    "description": "A fully reusable spacecraft designed for missions to Mars and beyond.",
+    "launchDate": "2023-04-20",
+    "status": "In Development",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/n88FR2TpRdYoATvnuQNbgZ-970-80.jpg"
+  },
+  {
+    "id": 6,
+    "missionName": "Hubble Space Telescope",
+    "description": "An iconic telescope providing stunning images of the universe.",
+    "launchDate": "1990-04-24",
+    "status": "Active",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/QrBsf8TmQD7tZEPgT2kM3a-970-80.jpg"
+  },
+  {
+    "id": 7,
+    "missionName": "Galileo Orbiter",
+    "description": "A mission to study Jupiter and its moons.",
+    "launchDate": "1989-10-18",
+    "status": "Completed",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/ev69H2NUkbEWWWSeVozCFa-970-80.jpg"
+  },
+  {
+    "id": 8,
+    "missionName": "Chandrayaan-3",
+    "description": "India's lunar exploration mission aiming for a successful soft landing on the Moon.",
+    "launchDate": "2023-07-14",
+    "status": "Successful",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/NPEWKpfCjhqGZLV8NuRj7P-970-80.jpg"
+  },
+  {
+    "id": 9,
+    "missionName": "Artemis I",
+    "description": "NASA's mission to return humans to the Moon under the Artemis program.",
+    "launchDate": "2022-11-16",
+    "status": "Completed",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/ev69H2NUkbEWWWSeVozCFa-970-80.jpg"
+  },
+  {
+    "id": 10,
+    "missionName": "Kepler Space Telescope",
+    "description": "A mission to discover Earth-like planets orbiting other stars.",
+    "launchDate": "2009-03-07",
+    "status": "Retired",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/7H6iyTsjaQaDxadd3VBG7D-970-80.jpg"
+  }
+]
